@@ -1,0 +1,15 @@
+,id,GeographicAreaName,EstimateGiniIndex,year,countyname
+0,0500000US25001,"Barnstable County, Massachusetts",0.4542,2019,BARNSTABLE
+1,0500000US25003,"Berkshire County, Massachusetts",0.4621,2019,BERKSHIRE
+2,0500000US25005,"Bristol County, Massachusetts",0.4579,2019,BRISTOL
+3,0500000US25007,"Dukes County, Massachusetts",0.499,2019,DUKES
+4,0500000US25009,"Essex County, Massachusetts",0.4816,2019,ESSEX
+5,0500000US25011,"Franklin County, Massachusetts",0.4541,2019,FRANKLIN
+6,0500000US25013,"Hampden County, Massachusetts",0.4731,2019,HAMPDEN
+7,0500000US25015,"Hampshire County, Massachusetts",0.4532,2019,HAMPSHIRE
+8,0500000US25017,"Middlesex County, Massachusetts",0.4638,2019,MIDDLESEX
+9,0500000US25019,"Nantucket County, Massachusetts",0.4936,2019,NANTUCKET
+10,0500000US25021,"Norfolk County, Massachusetts",0.4766,2019,NORFOLK
+11,0500000US25023,"Plymouth County, Massachusetts",0.4539,2019,PLYMOUTH
+12,0500000US25025,"Suffolk County, Massachusetts",0.5327,2019,SUFFOLK
+13,0500000US25027,"Worcester County, Massachusetts",0.4551,2019,WORCESTER
